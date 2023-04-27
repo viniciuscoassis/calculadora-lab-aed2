@@ -1,10 +1,10 @@
-# calculadora-lab-aed2
-## Projeto Calculadora
+# Projeto Calculadora
 Este é um projeto de uma calculadora feita em linguagem C pelos autores Felipe M. S. Bessoni e Vinicius C. de Assis, com o objetivo de realizar as quatro operações básicas (adição, subtração, multiplicação e divisão).
 
 ## Como compilar
 Para compilar o programa, utilize o comando abaixo:
-```http
+
+```
 clang -Wall src/Calculadora.c lib/funcoesarit.c lib/funcoesaux.c -I./include -o calculadora
 ```
 
