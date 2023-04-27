@@ -4,7 +4,7 @@ Este é um projeto de uma calculadora feita em linguagem C pelos autores Felipe 
 ## Como compilar
 Para compilar o programa, utilize o comando abaixo:
 
-```
+```bash
 clang -Wall src/Calculadora.c lib/funcoesarit.c lib/funcoesaux.c -I./include -o calculadora
 ```
 
