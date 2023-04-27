@@ -14,10 +14,18 @@ Ao ser executado, o programa solicita ao usuário que informe os dois valores a 
  O programa permite ao usuário realizar quantos cálculos quiser, podendo encerrar a execução a qualquer momento.
 
 ## Arquivos
-src/Calculadora.c: arquivo principal do programa
-include/projetoCalc.h: arquivo header que contém a declaração das funções utilizadas no programa
-lib/funcoesarit.c: arquivo que contém as funções de cálculo das operações aritméticas
-lib/funcoesaux.c: arquivo que contém funções auxiliares, como a função que solicita ao usuário a operação desejada e a função que verifica se o usuário deseja continuar a realizar cálculos.
+
+#### src/Calculadora.c: 
+ Arquivo principal do programa
+
+#### include/projetoCalc.h: 
+ Arquivo header que contém a declaração das funções utilizadas no programa
+
+#### lib/funcoesarit.c: 
+ Arquivo que contém as funções de cálculo das operações aritméticas
+
+#### lib/funcoesaux.c: 
+ Arquivo que contém funções auxiliares, como a função que solicita ao usuário a operação desejada e a função que verifica se o usuário deseja continuar a realizar cálculos.
 
 ## Autoria
 Este projeto foi desenvolvido por Felipe M. S. Bessoni e Vinicius C. de Assis em 26/04/2023.
